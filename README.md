@@ -1,3 +1,3 @@
 # AIstartup_team2
 
-<span style="color:blue">WARNING, AWS ACCOUNT BEWARE</span>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)WARNING, AWS ACCOUNT BEWARE
